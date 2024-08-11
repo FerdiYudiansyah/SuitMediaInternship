@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SuitMediaInternship</string>
+    <string name="title_activity_second">Second</string>
+    <string name="title_activity_third">Third</string>
+</resources>
